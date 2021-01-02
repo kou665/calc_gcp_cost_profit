@@ -1,0 +1,2 @@
+# calc_gcp_cost_profit
+GCPのコストと広告収入の非厳密計算
